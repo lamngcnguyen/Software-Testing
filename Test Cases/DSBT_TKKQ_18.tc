@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DSBT_TKKQ_18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1f207b5-2d80-49bb-bef3-eb6ed58340b6</testCaseGuid>
+   <variable>
+      <defaultValue>'ngoclamc3pro@gmail.com'</defaultValue>
+      <description></description>
+      <id>96ea72d8-797d-4613-9245-4ccc433d2e99</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

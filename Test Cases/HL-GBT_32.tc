@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra giá trị nhập các kí tự</description>
+   <name>HL-GBT_32</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ffb5c60-3f16-4c7f-93aa-e27704e021bf</testCaseGuid>
+</TestCaseEntity>
